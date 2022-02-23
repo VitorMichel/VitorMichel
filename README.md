@@ -1,6 +1,6 @@
 ### Hey, I'm Vítor Michel ✌
 <h4> 💻 Full-Stack Developer <br>
-🎓 Graduate in Systems Analysis and Development</h4>
+🎓 Graduated in Systems Analysis and Development</h4>
 <h6>You can also find me on LinkedIn</h6>
 <div>
   <a href="https://www.linkedin.com/in/vitormichel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
